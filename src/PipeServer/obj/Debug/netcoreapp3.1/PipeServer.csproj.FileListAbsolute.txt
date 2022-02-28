@@ -1,0 +1,14 @@
+D:\Source\Repos\.Net\pipe-connection\src\PipeServer\obj\Debug\netcoreapp3.1\PipeServer.csproj.AssemblyReference.cache
+D:\Source\Repos\.Net\pipe-connection\src\PipeServer\obj\Debug\netcoreapp3.1\PipeServer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Source\Repos\.Net\pipe-connection\src\PipeServer\obj\Debug\netcoreapp3.1\PipeServer.AssemblyInfoInputs.cache
+D:\Source\Repos\.Net\pipe-connection\src\PipeServer\obj\Debug\netcoreapp3.1\PipeServer.AssemblyInfo.cs
+D:\Source\Repos\.Net\pipe-connection\src\PipeServer\obj\Debug\netcoreapp3.1\PipeServer.csproj.CoreCompileInputs.cache
+D:\Source\Repos\.Net\pipe-connection\src\PipeServer\bin\Debug\netcoreapp3.1\PipeServer.exe
+D:\Source\Repos\.Net\pipe-connection\src\PipeServer\bin\Debug\netcoreapp3.1\PipeServer.deps.json
+D:\Source\Repos\.Net\pipe-connection\src\PipeServer\bin\Debug\netcoreapp3.1\PipeServer.runtimeconfig.json
+D:\Source\Repos\.Net\pipe-connection\src\PipeServer\bin\Debug\netcoreapp3.1\PipeServer.runtimeconfig.dev.json
+D:\Source\Repos\.Net\pipe-connection\src\PipeServer\bin\Debug\netcoreapp3.1\PipeServer.dll
+D:\Source\Repos\.Net\pipe-connection\src\PipeServer\bin\Debug\netcoreapp3.1\PipeServer.pdb
+D:\Source\Repos\.Net\pipe-connection\src\PipeServer\obj\Debug\netcoreapp3.1\PipeServer.dll
+D:\Source\Repos\.Net\pipe-connection\src\PipeServer\obj\Debug\netcoreapp3.1\PipeServer.pdb
+D:\Source\Repos\.Net\pipe-connection\src\PipeServer\obj\Debug\netcoreapp3.1\PipeServer.genruntimeconfig.cache

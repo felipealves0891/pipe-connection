@@ -2,7 +2,7 @@ using System;
 using System.IO;
 using System.IO.Pipes;
 
-namespace PipeClient.Client
+namespace PipeConnection.Client
 {
     public class MessageClient : IClient
     {
@@ -45,13 +45,18 @@ namespace PipeClient.Client
             }
         }
 
-        public void Dispose()
+        public void Close()
         {
             if(_initialized)
             {
                 _client.Dispose();
                 _initialized = false;         
             }
+        }
+
+        public void Dispose()
+        {
+            Close();
         }
     }
 }

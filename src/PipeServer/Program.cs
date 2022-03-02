@@ -1,8 +1,5 @@
-﻿using PipeServer.Server;
+﻿using PipeConnection.Server;
 using System;
-using System.Diagnostics;
-using System.IO;
-using System.IO.Pipes;
 using System.Threading;
 
 namespace PipeServer
@@ -18,7 +15,8 @@ namespace PipeServer
 
                 for(int i = 0; i < 100; i++)
                 {
-                    server.Send($"Loop '{i}'!");
+                    string guid = Guid.NewGuid().ToString();
+                    server.Send($"Loop '{i}' - Guid '{guid}'");
                     Thread.Sleep(100);
                 }
             }

@@ -1,7 +1,5 @@
 ﻿using System;
-using System.IO;
-using System.IO.Pipes;
-using PipeClient.Client;
+using PipeConnection.Client;
 
 namespace PipeClient
 {

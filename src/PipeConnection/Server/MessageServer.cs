@@ -2,9 +2,8 @@ using System;
 using System.Diagnostics;
 using System.IO;
 using System.IO.Pipes;
-using System.Threading;
 
-namespace PipeServer.Server
+namespace PipeConnection.Server
 {
     public class MessageServer : IServer
     {

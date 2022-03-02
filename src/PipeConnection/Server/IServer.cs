@@ -1,6 +1,6 @@
 using System;
 
-namespace PipeServer.Server
+namespace PipeConnection.Server
 {
     public interface IServer : IDisposable
     {
